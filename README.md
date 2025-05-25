@@ -4,9 +4,7 @@
 <h1 align="center">Hi 👋, I'm Obitope Eniola Nathaniel</h1>
 <h3 align="center">I'm a Full Stack Developer with skills in HTML, CSS, JavaScript, Vue, React, Django, and Node.js. I have a growing passion for AI, Machine Learning, and Deep Learning, and I'm always open to learning, collaborating, and pushing beyond my comfort zone through real-life projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obitope-eniola-nathaniel&label=Profile%20views&color=0e75b6&style=flat" alt="obitope-eniola-nathaniel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obitope-eniola-nathaniel" alt="obitope-eniola-nathaniel" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/obitopee" target="blank"><img src="https://img.shields.io/twitter/follow/obitopee?logo=twitter&style=for-the-badge" alt="obitopee" /></a> </p>
 
