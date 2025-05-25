@@ -2,7 +2,7 @@
 ### Founder and CEO of oendevworks..
 
 <h1 align="center">Hi 👋, I'm Obitope Eniola Nathaniel</h1>
-<h3 align="center">I'm a **focused Full Stack Developer** with skills in **HTML, CSS, JavaScript, Vue, React, Django, and Node.js**. I have a growing passion for **AI, Machine Learning, and Deep Learning**, and I'm always open to learning, collaborating, and pushing beyond my comfort zone through real-life projects.</h3>
+<h3 align="center">I'm a *focused Full Stack Developer* with skills in *HTML, CSS, JavaScript, Vue, React, Django, and Node.js*. I have a growing passion for *AI, Machine Learning, and Deep Learning*, and I'm always open to learning, collaborating, and pushing beyond my comfort zone through real-life projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obitope-eniola-nathaniel&label=Profile%20views&color=0e75b6&style=flat" alt="obitope-eniola-nathaniel" /> </p>
 
